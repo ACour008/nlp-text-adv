@@ -1,0 +1,96 @@
+{
+    "hypernyms": {
+        "drop": [],
+        "consume": [],
+        "examine": [],
+        "go": [],
+        "give": [
+            "transfer.v.05"
+        ],
+        "look": [],
+        "search": [],
+        "take": [],
+        "talk": [
+            "communicate.v.02",
+            "interact.v.01"
+        ],
+        "use": []
+    },
+    "hyponyms": {
+        "drop": [
+            "dump.v.04",
+            "leave.v.01"
+        ],
+        "consume": [
+            "eat.v.01",
+            "drink.v.04",
+            "eat_up.v.01",
+            "fill_up.v.04",
+            "nibble.v.03",
+            "peck.v.02",
+            "pick_at.v.02",
+            "gulp.v.01",
+            "guzzle.v.01",
+            "lap.v.04",
+            "sip.v.01"
+        ],
+        "examine": [
+            "check.v.01",
+            "investigate.v.01"
+        ],
+        "go": [
+            "advance.v.01",
+            "proceed.v.02",
+            "step.v.01",
+            "travel.v.04",
+            "walk.v.01",
+            "head.v.01",
+            "wander.v.03",
+            "march.v.01",
+            "step.v.07",
+            "move.v.01"
+        ],
+        "give": [
+            "bestow.v.02",
+            "cough_up.v.01",
+            "lend.v.02",
+            "offer.v.02",
+            "present.v.04",
+            "provide.v.02",
+            "spare.v.03"
+        ],
+        "look": [
+            "look_around.v.01",
+            "take_a_look.v.01"
+        ],
+        "search": [],
+        "take": [
+            "collect.v.02",
+            "pocket.v.01",
+            "take_away.v.04",
+            "get.v.04",
+            "grab.v.01"
+        ],
+        "talk": [
+            "chat_up.v.01",
+            "converse.v.01",
+            "rap.v.04"
+        ],
+        "use": [
+            "put.v.04"
+        ]
+    },
+    "word_senses": {
+        "drink": "drink.v.01",
+        "drop": "drop.v.01",
+        "eat": "eat.v.01",
+        "examine": "analyze.v.01",
+        "go": "travel.v.01",
+        "give": "give.v.03",
+        "look": "look.v.01",
+        "search": "search.v.02",
+        "take": "take.v.08",
+        "talk": "talk.v.01",
+        "use": "use.v.01"
+    }
+}
