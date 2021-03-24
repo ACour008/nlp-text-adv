@@ -1,9 +1,9 @@
 # Python NLP Text Adventure
 A text-adventure game developed to learn about Natural Language Processing (NLP). The game loop code and and the parser was made following this course: http://interactive-fiction-class.org/lectures.html. Other modifications are mine.
 
-## Features
-- A dialogue system initiated through the 'use' command.
-- I'll list more later.
+## Primary Features
+- A dialogue system initiated through the 'use' or 'talk' commands.
+- Flexible recogniition of sentence structure (ie., 'use apple and fork' and 'use fork with apple' are recognized as the same command)
 
 ## Getting started
 Just fork and pull. When you have a branch on your machine, find the directory and type `python3 play.py`. It should start the game from the beginning. NOTE: The game will only proceed until you get to the basement, then you won't be able to do much more except move about the rooms.
